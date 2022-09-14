@@ -1,3 +1,15 @@
-# 60201976_Final_Exam
+# Full Stack Clothes Store Web Site
 
-객체지향적 언어와 프로그래밍 기말고사 파일
+## Tech Stack
+- JAVA
+- Frontend
+    - HTML/CSS/JS
+    - Vue.js
+- Backend
+    - Spring boot
+    - Maven
+    - JPA
+    - H2 Database
+
+## Demonstration
+[![Video Label](http://img.youtube.com/vi/iUugdJN10xw/0.jpg)](https://youtu.be/iUugdJN10xw)
